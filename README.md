@@ -1,1 +1,1 @@
-# detection_cv
+# object detection
